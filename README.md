@@ -3,8 +3,6 @@
 
 <img align="right" width="400px" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamshah28&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamshah28" /> </p>
-
 - 🌱 I’m currently learning Bachelor of Computer Applications <br>
 
 - 💬 Ask me about Programming knowledge <br>
